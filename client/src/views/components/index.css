@@ -1,0 +1,55 @@
+.Button {
+  background-color:#243b55;
+  height: 35px;
+  border: none;
+  color: white;
+  outline: none;
+  cursor: pointer;
+  font: inherit;
+  width: 100%;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  transition-duration: 0.4s;
+}
+.marg{
+  margin-top: 21px;
+}
+.Button:hover {
+  background-color: #b06ab3;
+}
+.Button:first-of-type {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.Wideget{
+  display: block;
+        position: fixed;
+        left: 0;
+        right: 0;
+        margin: auto;
+        max-width: 400px;
+        width: 100%;
+        border-radius: 6px;
+        background:rgb(0,0,0,0.4);
+        /* opacity: 0.; */
+        text-align: center;
+        padding: 35px
+}
+.Danger {
+  color: #944317;
+}
+
+
+table {
+  border-spacing: 0;
+  border: 1px solid white;
+}
+  th,
+  td {
+    margin: 0;
+    padding: 0.5rem;
+    border-bottom: 1px solid white;
+    border-right: 1px solid white
+}
