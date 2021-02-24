@@ -1,0 +1,30 @@
+{
+  "name": "sample-mern-stack-app",
+  "version": "1.0.0",
+  "description": "sample MERN App with redux-thunk and JWT Authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safvan-555/MERN-stack.git"
+  },
+  "homepage": "https://github.com/safvan-555/MERN-stack.git#readme",
+  "author": "Mohamed Safvan",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.2.3",
+    "nodemailer": "^6.4.17",
+    "password-policy": "0.0.3",
+    "password-validator": "^5.1.1",
+    "pbkdf2": "^3.1.1",
+    "random-number": "0.0.9",
+    "request": "^2.88.0",
+    "uuid": "^3.3.2"
+  }
+}

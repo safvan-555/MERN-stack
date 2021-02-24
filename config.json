@@ -1,0 +1,5 @@
+{
+  "db_Url": "mongodb://localhost:27017/MEARNSAMPLE",
+  "PORT": "3010",
+  "JWTSECRET": "secret"
+}
