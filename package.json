@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/safvan-555/MERN-stack.git"
+    "url": "git+https://github.com/safvan-555/Simple-MERN-stack-app.git"
   },
-  "homepage": "https://github.com/safvan-555/MERN-stack.git#readme",
+  "homepage": "https://github.com/safvan-555/Simple-MERN-stack-app.git#readme",
   "author": "Mohamed Safvan",
   "license": "ISC",
   "dependencies": {
